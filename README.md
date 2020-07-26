@@ -11,4 +11,4 @@
 4. Extrae los datos seleccionados en el paso 3, merge x, y(activity) y subject.
 5. Genera el 'Tidy Dataset' que consiste en el promedio (mean) de cada variable para cada materia y actividad.
    Se muestra el resultado en `tidy_dataset.txt`.
-
+ 
